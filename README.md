@@ -9,3 +9,4 @@ This is an advanced GCC 5.x i686-elf cross-compiler forked from [pwootage/gcc5-i
 - Add support for gcc -m32 standard library
 - Add gdb
 - Add friendly gdb configurations, cloned from [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
+- Add GNU make
